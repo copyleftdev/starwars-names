@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "dj-starwars-names",
   "version": "1.0.0",
   "description": "get random starwars names",
   "main": "src/index.js",
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/copyleftdev/starwars-names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
-  }
+  },
+  "devDependencies": {}
 }
