@@ -1,0 +1,26 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "get random starwars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/copyleftdev/starwars-names.git"
+  },
+  "keywords": [
+    "name",
+    "starwars"
+  ],
+  "author": "Donald Johnson <dj@codetestcode.io> (http://www.codetestcode.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/copyleftdev/starwars-names/issues"
+  },
+  "homepage": "https://github.com/copyleftdev/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
