@@ -1,10 +1,10 @@
 {
   "name": "@codetestcode/dj-starwars-names",
-  "version": "1.4.0-beta.0",
+  "version": "1.4.1-beta.0",
   "description": "get random starwars names",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha src/index.test.js -w"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "chai": "3.4.1",
+    "mocha": "2.3.4"
+  }
 }
