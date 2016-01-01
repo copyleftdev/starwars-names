@@ -1,5 +1,5 @@
 {
-  "name": "dj-starwars-names",
+  "name": "@codetestcode/dj-starwars-names",
   "version": "1.0.0",
   "description": "get random starwars names",
   "main": "src/index.js",
